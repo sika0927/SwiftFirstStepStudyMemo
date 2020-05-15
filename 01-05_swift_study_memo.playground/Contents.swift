@@ -7,4 +7,16 @@ var str = "Hello, playground"
 //单词 `let` 是一种“关键字”。在 Swift 中，关键字具有特殊意义，不能用作名称。`let` 关键字用于声明常量。慢慢地，你会接触到更多 Swift 关键字。
 //语句的 `= 101` 部分是为常量进行“赋值”，其中等号 `=` 称为“赋值运算符”。
 
+//command-control-space = emoji
+//
+//let firstName = "Tim"
+//let city = "Cupertino"
+//let welcomeString = "Hello \(firstName), welcome to \(city)"
 
+//let firstName = "Tara"
+//let city = "Paris"
+//let welcomeString = "Hello " + firstName + ", welcome to " + city + "!"
+
+//let stringWithQuotationMarks = "He said, \"Hi there!\" as he passed by."
+
+//换行的转义序列是反斜杠字符后面加字母“n”：
